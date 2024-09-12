@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Berlin",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    },
+    {
+        "name": "Bremen",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    },
+    {
+        "name": "Hesse",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    },
+    {
+        "name": "Mecklenburg-Vorpommern",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    },
+    {
+        "name": "Rhineland-Palatinate",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    },
+    {
+        "name": "Saxony",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    },
+    {
+        "name": "Schleswig-Holstein",
+        "location": {
+            "country": "Germany",
+            "state": "State_Name",
+            "city": "City_Name"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "officialWebsite": null,
+            "linkedin": null,
+            "youtube": null
+        },
+        "phone": "1234567890"
+    }
+]
